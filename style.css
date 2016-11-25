@@ -13,6 +13,6 @@ h1 {
 h1:hover {
     color: #ff7900;
     font-size: 60px;
-    transition: color 3s ease-in 0s, size 2s ease-in 0s;
+    transition: color 3s ease-in -1s, size 2s ease-in 0s;
 
 }
